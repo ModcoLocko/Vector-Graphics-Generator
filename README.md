@@ -1,4 +1,2 @@
-# Vector-Graphics-Generator
-A python script for generating vector graphics using pygame.
-
-There are tons of cool things you can do with this, the example branch is a system for generating a rank card that you can select how much xp to go, how much they have, and a username, and it automatically formats and fixes common errors.
+# Vector-Graphics-Generator-Example
+An example for using this script, generating a rank card with some easy to edit parameters.
